@@ -14,7 +14,7 @@ Random Anime Quotes adalah website sederhana yang menampilkan kutipan acak dari 
 
 ## Demo
 
-Anda dapat melihat demo live dari website ini [di sini](https://caliphdev.github.io/quotesnime/).
+Anda dapat melihat demo live dari website ini [di sini](https://shanachanak.github.io/quotesnime/).
 
 ## Teknologi
 
@@ -68,4 +68,4 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ---
 
-Dibuat dengan ❤️ oleh [Caliph Dev](https://github.com/caliphdev)
+Dibuat dengan ❤️ oleh [shanachan](https://github.com/shanachanak)
